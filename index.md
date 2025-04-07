@@ -42,6 +42,7 @@ You can see some of my projects [here](https://www.youtube.com/watch?v=dQw4w9WgX
 ---
 
 `print("Thanks for reading!")`  
-Thanks for Reading!
+Thanks for reading!
 
-[README file](README.md) for this project (WIP) || [Back to top](#kevin-cohens-user-page)
+[README file](README.md) for this project (WIP)
+[Back to top](#kevin-cohens-user-page)
